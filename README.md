@@ -13,8 +13,19 @@ ecommerce_project/
 │── scripts/       -> scripts de Python (.py)
 │── images/        -> capturas y visualizaciones
 │── README.md      -> descripción general del proyecto
-```                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+```                                                                                                                                                                      ## 📈 Visualizaciones
 
+1. **Ventas por Categoría**
+   ![Ventas por Categoría](images/ventas_por_categoria.png)
+
+2. **Ventas por Región**
+   ![Ventas por Región](images/ventas_por_region.png)
+
+3. **Tendencia Mensual de Ventas**
+   ![Tendencia Mensual de Ventas](images/tendencia_ventas_mensuales.png)
+
+4. **Top 10 Productos más Vendidos**
+   ![Top 10 Productos](images/top10_productos.png)                                                                                                                                                                                                                                                                                                           
 ---
 
 ## 🚀 Instrucciones de uso
